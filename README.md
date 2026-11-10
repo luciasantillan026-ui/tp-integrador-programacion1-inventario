@@ -6,7 +6,7 @@
 - **Alumna:** Lucía Antonella Santillán
 - **Carrera:** Tecnicatura Universitaria en Programación
 - **Materia:** Programación 1
-- **Comisión:** 1 (A26 C1-15)
+- **Comisión:** (A26 C1-15)
 - **Lenguaje:** Python 3.14
 - **Entorno de desarrollo:** Visual Studio Code
 
@@ -24,6 +24,10 @@ El sistema cuenta con un menú interactivo que facilita el acceso a las distinta
 El archivo que contiene el código fuente del proyecto es:
 
 `Santillan_Lucia_P1.py`
+
+### Diagrama de flujo
+
+[Ver diagrama de flujo](Diagrama_de_flujo.png)
 
 ### Funcionalidades
 
