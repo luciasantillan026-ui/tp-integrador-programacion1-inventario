@@ -44,7 +44,7 @@ El archivo que contiene el código fuente del proyecto es:
 
 [Ver informe en PDF](Trabajo_Practico_Integrador_P1.pdf)
 
-### Video demostrativo
+### Video
 
-[Ver video demostrativo](PEGAR_AQUI_EL_ENLACE_DEL_VIDEO)
+[Ver video](https://youtu.be/-A5O1LGQdUA)
 
